@@ -80,16 +80,15 @@ namespace Triangulate
                 SetError(true);
                 return;
             }
-            pos2.X = A + 1;
-            // +/-2 Due to calculation offset
+            pos2.X = A + 5;
             if (angle < 90)
             {
-                pos3.X = (int) (pos2.X - TrigMath.GetAdjCos(B, angle)) + 2;
+                pos3.X = (int) (pos2.X - TrigMath.GetAdjCos(B, angle));
             } else
             {
-                pos3.X = (int) (pos2.X + TrigMath.GetAdjCos(B, angle)) - 2;
+                pos3.X = (int) (pos2.X + TrigMath.GetAdjCos(B, angle));
             }
-            pos3.Y = (int) (pos2.Y + TrigMath.GetOppSin(B, angle));
+            pos3.Y = (int) (5 + TrigMath.GetOppSin(B, angle));
             panel1_Paint(null, pea);
             SetError(false);
         }

@@ -10,7 +10,6 @@ P:\Visual Studio 2012\Triangulate\Triangulate\obj\Debug\Triangulate.pdb
 C:\Users\thoma\Documents\Visual Studio 2017\Projects\Triangulate\Triangulate\bin\Debug\Triangulate.exe.config
 C:\Users\thoma\Documents\Visual Studio 2017\Projects\Triangulate\Triangulate\bin\Debug\Triangulate.exe
 C:\Users\thoma\Documents\Visual Studio 2017\Projects\Triangulate\Triangulate\bin\Debug\Triangulate.pdb
-C:\Users\thoma\Documents\Visual Studio 2017\Projects\Triangulate\Triangulate\obj\Debug\Triangulate.csprojResolveAssemblyReference.cache
 C:\Users\thoma\Documents\Visual Studio 2017\Projects\Triangulate\Triangulate\obj\Debug\Triangulate.Form1.resources
 C:\Users\thoma\Documents\Visual Studio 2017\Projects\Triangulate\Triangulate\obj\Debug\Triangulate.Properties.Resources.resources
 C:\Users\thoma\Documents\Visual Studio 2017\Projects\Triangulate\Triangulate\obj\Debug\Triangulate.csproj.GenerateResource.Cache
